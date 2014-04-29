@@ -4,3 +4,5 @@ just modified a bit to install 'git' + do it via 'yum' since this is for RHEL-li
 Other tutorials worth reading:
  * http://blog.waltschlender.com/getting-up-to-speed-with-chef-solo-part1/
    ---> this has cookbook dependency checking and auto-downloading idea which we can use
+ * http://www.getchef.com/blog/2011/09/07/guide-to-writing-chef-cookbooks/
+   ---> a guide for writing cookbooks
