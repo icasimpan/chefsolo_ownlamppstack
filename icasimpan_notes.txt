@@ -1,6 +1,19 @@
 basically, chef tutorial are from http://gettingstartedwithchef.com/first-steps-with-chef.html
 just modified a bit to install 'git' + do it via 'yum' since this is for RHEL-like OS.
 
+HOW TO USE THIS TOOL:
+  0. On a freshly installed OS, install git
+  1. Change to root
+     ~$ sudo su -
+  2. install chef-solo
+      ~# curl -L https://www.opscode.com/chef/install.sh | bash
+  3. clone this repo
+      ~# git clone https://github.com/icasimpan/chefsolo_ownlamppstack.git chef-repo
+  4. Remove git (since this includes git installation)
+      ~# yes|yum remove git
+  5. cd /root/chef-repo
+  6. chef-solo -c solo.rb -j web.json
+
 Other tutorials worth reading:
  * http://blog.waltschlender.com/getting-up-to-speed-with-chef-solo-part1/
    ---> this has cookbook dependency checking and auto-downloading idea which we can use
