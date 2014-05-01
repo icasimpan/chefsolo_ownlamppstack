@@ -8,5 +8,9 @@ Other tutorials worth reading:
    ---> a guide for writing cookbooks
  * http://tumblr.nrako.com/post/22320729770/vagrant-chef-librarian
    ---> using librarian-chef
- * http://www.getchef.com/downloads/chef-dk/windows/
+ * http://berkshelf.com/
    ---> alternative to librarian-chef
+ * http://misheska.com/blog/2013/06/16/getting-started-writing-chef-cookbooks-the-berkshelf-way/
+  --> tutorial on using berkshelf
+ * http://www.getchef.com/downloads/chef-dk/windows/
+   ---> other tools that can be used for verifying infra tools integrity
