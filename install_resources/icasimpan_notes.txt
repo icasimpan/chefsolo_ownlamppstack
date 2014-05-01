@@ -6,11 +6,15 @@ Other tutorials worth reading:
    ---> this has cookbook dependency checking and auto-downloading idea which we can use
  * http://www.getchef.com/blog/2011/09/07/guide-to-writing-chef-cookbooks/
    ---> a guide for writing cookbooks
+ * http://misheska.com/blog/2013/12/26/set-up-a-sane-ruby-cookbook-authoring-environment-for-chef/
+   ---> installing ruby
  * http://tumblr.nrako.com/post/22320729770/vagrant-chef-librarian
    ---> using librarian-chef
  * http://berkshelf.com/
    ---> alternative to librarian-chef
  * http://misheska.com/blog/2013/06/16/getting-started-writing-chef-cookbooks-the-berkshelf-way/
-  --> tutorial on using berkshelf
+   ---> tutorial on using berkshelf
+ * http://rafecolton.com/chef/2013-05-20-librarian-chef-vs-berkshelf.html
+   ---> librarian-chef vs berkshelf
  * http://www.getchef.com/downloads/chef-dk/windows/
    ---> other tools that can be used for verifying infra tools integrity
