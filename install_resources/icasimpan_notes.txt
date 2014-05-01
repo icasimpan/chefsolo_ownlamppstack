@@ -8,3 +8,5 @@ Other tutorials worth reading:
    ---> a guide for writing cookbooks
  * http://tumblr.nrako.com/post/22320729770/vagrant-chef-librarian
    ---> using librarian-chef
+ * http://www.getchef.com/downloads/chef-dk/windows/
+   ---> alternative to librarian-chef
